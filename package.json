@@ -1,0 +1,13 @@
+{
+  "name": "hackatron-prep-socket",
+  "version": "0.0.1",
+  "description": "prep for hackatron 2014",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jianzhi-1/hackatron-ri-sec2.git"
+  },
+  "dependencies": {
+    "express": "^4.10.3",
+    "socket.io": "^1.2.1"
+  }
+}
